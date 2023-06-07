@@ -8,11 +8,13 @@ Right now, our app is in the development phase. Our dedicated team of developers
 ## AI Engineer
 <a href="https://github.com/Calis-Top-10/Calis_ML/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Calis-Top-10/Calis_ML" />
-</a>
+</a>  
+
 ## Mobile Developer
 <a href="https://github.com/Calis-Top-10/CalisApp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Calis-Top-10/CalisApp" />
-</a>
+</a>  
+
 ## Cloud Engineer
 <a href="https://github.com/Calis-Top-10/CalisAPI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Calis-Top-10/CalisAPI" />
